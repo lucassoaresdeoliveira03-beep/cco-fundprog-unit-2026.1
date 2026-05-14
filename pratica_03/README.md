@@ -1,4 +1,4 @@
-### [LAB] Lista Pratica de Laboratorio 04: Funcoes, Modularizacao, Depuracao e Testes
+### Lista Pratica de Laboratorio 03: Funcoes, Modularizacao, Depuracao e Testes
 
 Esta lista foi elaborada com base nos conteudos do **Capitulo 7 - Funcoes, Modularizacao e Depuracao no Desenvolvimento Estruturado**, contemplando **definicao de funcao**, **parametros e argumentos**, **return**, **escopo basico**, **boas praticas de decomposicao**, **tipos de erro**, **estrategias de depuracao**, **teste de mesa** e **casos de teste simples**.
 
